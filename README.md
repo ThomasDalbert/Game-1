@@ -1,3 +1,3 @@
 # Jeu1
 
-Here is my JS Game training.
+Here is a js game I code for practising.
